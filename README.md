@@ -7,3 +7,5 @@ This repository contains a React vertical bar chart component built using Rechar
 - **Responsive:** Designed to be responsive and adapt to different screen sizes.
 - **Interactive:** Interact with the chart by hovering over bars to display additional information.
 
+## Live Demo
+Check out the live demo [here](https://vertical-bar-chart.vercel.app/)!
